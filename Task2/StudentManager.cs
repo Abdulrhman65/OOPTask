@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
+/*
+من فضلك يا بشمهندس لا تنس قراءة ملف note.md
+*/
+
 namespace Task2
 {
     public class StudentManager
