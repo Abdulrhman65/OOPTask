@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 
 /*
-من فضلك يا بشمهندس لا تنس قراءة ملف note.md
+من فضلك يا بشمهندس لا تنس قراءة ملف Readme.md
 */
 
 namespace Task2
